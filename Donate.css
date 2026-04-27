@@ -28,15 +28,3 @@
 body {
     background-color: #000000;
 }
-h1 {
-    color: aliceblue;
-}
-p {
-    color: aliceblue;
-}
-details {
-    color: cyan;
-}
-summary:hover {
-    cursor: pointer;
-}
